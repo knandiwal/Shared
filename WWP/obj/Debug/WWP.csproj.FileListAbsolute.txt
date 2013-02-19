@@ -1,0 +1,14 @@
+C:\Projects\Development\WWP\WWP\WWP\Bin\Debug\ApplicationIcon.png
+C:\Projects\Development\WWP\WWP\WWP\Bin\Debug\Background.png
+C:\Projects\Development\WWP\WWP\WWP\Bin\Debug\WWP.dll
+C:\Projects\Development\WWP\WWP\WWP\Bin\Debug\WWP.pdb
+C:\Projects\Development\WWP\WWP\WWP\Bin\Debug\AppManifest.xaml
+C:\Projects\Development\WWP\WWP\WWP\Bin\Debug\WWP.xap
+C:\Projects\Development\WWP\WWP\WWP\Bin\Debug\WPCordovaClassLib.dll
+C:\Projects\Development\WWP\WWP\WWP\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Development\WWP\WWP\WWP\obj\Debug\App.g.i.cs
+C:\Projects\Development\WWP\WWP\WWP\obj\Debug\MainPage.g.i.cs
+C:\Projects\Development\WWP\WWP\WWP\obj\Debug\WWP.g.resources
+C:\Projects\Development\WWP\WWP\WWP\obj\Debug\WWP.dll
+C:\Projects\Development\WWP\WWP\WWP\obj\Debug\WWP.pdb
+C:\Projects\Development\WWP\WWP\WWP\obj\Debug\XapCacheFile.xml
